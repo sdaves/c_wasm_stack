@@ -1,0 +1,5 @@
+{
+  "name": "Debian Stable",
+  "image": "mcr.microsoft.com/devcontainers/base:debian",
+  "postCreateCommand": "make setup"
+}

@@ -1,0 +1,6 @@
+data.bin
+socket_server
+benchmark_api
+ui.js
+ui.wasm
+*.o
